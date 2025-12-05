@@ -156,10 +156,10 @@ This toolkit is freely available. If you find it useful:
 The Distributed Coherence Toolkit is part of a series on the maturity of content design.
 
 **Read the original:** "Beyond Single Source of Truth: Designing for Distributed Coherence"
-
+https://bit.ly/design-coherence
 **Author:** Scott Pierce  
 **Website:** goodatbingo.com
 
 ---
 
-*Making complex things simple. Making simple things scale.*
+*Making complex things simple. Making simple things scale. Boom.*
